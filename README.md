@@ -1,6 +1,6 @@
 <a href="https://www.instagram.com/junholee_9201/" target="_blank" rel="nofollow"><img align="right" alt="junho's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<h1 align="center">Hola!</h1>
+<h1 align="center">안녕하세요!</h1>
 
 <p align="center">
   <a href="https://github.com/JunhoLee92">
