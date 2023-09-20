@@ -31,15 +31,15 @@
 <br>
 
 <p align="center">
-  <code>
+  <pre>
 🎓 I'm a student with a passion for game development.
 🎮 Currently diving deep into Unity to bring my game ideas to life.
 🚀 Aspiring to become a professional game developer and create experiences that players will cherish.
-  </code>
+  </pre>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Junho Lee" />
+  <img src="https://komarev.com/ghpvc/?username=JunhoLee92" alt="Junho Lee" />
 </p>
 
 <br>
@@ -51,9 +51,9 @@
 </a>
 
 <h3>
-  <code>
+  <span>
     Preferred Languages
-  </code>
+  </span>
 </h3>
 
 <br>
@@ -63,15 +63,14 @@
    <img src="http://img.shields.io/badge/-C%23-A8B9CC?style=flat-square&logo=c&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown">
+<img src="https://img.shields.io/badge/-Javascrpit-000000?style=flat-square&logo=javascript">
 
-
-  
 </p>
 
 <h3>
-  <code>
+  <span>
     Tools Used
-  </code>
+  </span>
 </h3>
 
 <br>
@@ -83,7 +82,7 @@
   
 </p>
 
-______________________________________________________________________________________
+---
 
 <br>
 <br>
@@ -91,7 +90,6 @@ ________________________________________________________________________________
 - ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
 - 🤝 Open for collaboration in Unity and Game Development. <br>
 - 🕸️ Visit my porfolio [website](https://react-portfolio-one-mu.vercel.app/) for more info. <br>
-
 
 <br>
 
