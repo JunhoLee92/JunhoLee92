@@ -16,6 +16,7 @@
   <a href="https://en.wikipedia.org/wiki/Life">
     <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white">
   </a>
+
   <a href="https://en.wikipedia.org/wiki/Computer_science">
     <img src="https://img.shields.io/badge/Student-Sogang-blue">
   </a>
@@ -58,7 +59,12 @@
 <br>
 
 <p>
-   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
+   
+   <img src="http://img.shields.io/badge/-C%23-A8B9CC?style=flat-square&logo=c&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown">
+
+
   
 </p>
 
@@ -71,16 +77,19 @@
 <br>
 
 <p>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
   
 </p>
+
 ______________________________________________________________________________________
 
 <br>
 <br>
 
 - ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
-- 🤝 Open for collaboration in Data Science and Deep Learning. <br>
+- 🤝 Open for collaboration in Unity and Game Development. <br>
 - 🕸️ Visit my porfolio [website](https://react-portfolio-one-mu.vercel.app/) for more info. <br>
 
 
