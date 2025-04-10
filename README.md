@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/JunhoLee92">
-    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450">
+<!--     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450"> -->
   </a>
 </p>
 
@@ -44,10 +44,7 @@
 
 <br>
 
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
-    alt="spotify" />
+
 </a>
 
 <h3>
